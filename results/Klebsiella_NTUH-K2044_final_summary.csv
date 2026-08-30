@@ -1,0 +1,10 @@
+Parameter,Result
+Organism,Klebsiella pneumoniae NTUH-K2044
+Reference accession,AP006725.1
+AMR determinants detected,4
+Detected determinants,"fosA, blaSHV-11, oqxA, oqxB19"
+Reference coverage,100% for all detected determinants
+Reference identity,100% for all detected determinants
+Closest genomic context,oqxA–mexF (26 bp); oqxB19–mexE (24 bp)
+oqxA–oqxB19 distance,27 bp
+Phenotypic susceptibility testing,Not performed

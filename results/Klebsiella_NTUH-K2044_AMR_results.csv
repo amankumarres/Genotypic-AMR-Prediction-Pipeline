@@ -1,0 +1,5 @@
+Element symbol,Element name,Class,Subclass,Method,% Coverage of reference,% Identity to reference
+fosA,FosA5 family fosfomycin resistance glutathione transferase,FOSFOMYCIN,FOSFOMYCIN,EXACTX,100.0,100.0
+blaSHV-11,broad-spectrum class A beta-lactamase SHV-11,BETA-LACTAM,BETA-LACTAM,ALLELEX,100.0,100.0
+oqxA,multidrug efflux RND transporter periplasmic adaptor subunit OqxA,NITROFURAN/PHENICOL/QUINOLONE/TETRACYCLINE,NITROFURANTOIN/PHENICOL/QUINOLONE/TIGECYCLINE,EXACTX,100.0,100.0
+oqxB19,multidrug efflux RND transporter permease subunit OqxB19,PHENICOL/QUINOLONE,PHENICOL/QUINOLONE,ALLELEX,100.0,100.0
